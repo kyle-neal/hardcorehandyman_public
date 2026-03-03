@@ -40,8 +40,8 @@ This production-ready Phoenix application streamlines the quote request process 
 ## 🚀 Getting Started
 
 **Prerequisites:**
-- Elixir 1.14+
-- Erlang/OTP 25+
+- Elixir 1.19.5
+- Erlang/OTP 28+
 - PostgreSQL 14+
 - Node.js 18+ (for asset compilation)
 
